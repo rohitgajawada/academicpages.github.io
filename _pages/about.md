@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<p align="center">
+<p align="right">
   <img src="https://rohitgajawada.github.io/files/bg.jpg?raw=true" alt="Photo" style="width: 400px;"/>
 </p>
 
