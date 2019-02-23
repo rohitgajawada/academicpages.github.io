@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-Click [here](https://rohitgajawada.github.io/files/Resume.pdf) to check out my up-to-date Resume.
+Click <b>[here]</b>(https://rohitgajawada.github.io/files/Resume.pdf) to check out my up-to-date Resume.
