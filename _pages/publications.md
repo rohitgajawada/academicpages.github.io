@@ -15,4 +15,3 @@ author_profile: true
 <b>[Distribution-Aware Binarization of Neural Networks for Sketch Recognition](https://arxiv.org/pdf/1804.02941.pdf). WACV 2018: 830-838</b>
 <br>
 <br>
-More coming soon!

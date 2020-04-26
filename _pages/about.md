@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 <p align="right">
-  <img src="https://rohitgajawada.github.io/files/background_image.jpg?raw=true" alt="Photo" style="width: 400px;"/>
+  <img src="https://rohitgajawada.github.io/files/background_image.jpg?raw=true" alt="Photo" style="width: 150px;"/>
 </p>
 
 * I am a first year MS in Computer Science student at Georgia Institute of Technology, Atlanta specializing in Computational Perception and Robotics!
