@@ -7,9 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<p align="right">
+<!-- <p align="right">
   <img src="https://rohitgajawada.github.io/files/background_image.jpg?raw=true" alt="Photo" style="width: 150px;"/>
-</p>
+</p> -->
 
 * I am a first year MS in Computer Science student at Georgia Institute of Technology, Atlanta specializing in Computational Perception and Robotics!
 * I will be interning at PathAI, Boston as a Machine Learning Intern in Summer 2020! I will also be interning at Uber ATG, San Francisco as a Software Engineering Intern in the Autonomy Capabilities team in Fall 2020!
